@@ -10,6 +10,7 @@ Repository contents:
 
 Side Note: 
 - The 3D printing files are in STL format. There are 2 files. Both parts fit into each other making the project complete.
+
 Happy tinkering!
 
 
